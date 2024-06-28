@@ -6,10 +6,10 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/wyubin/llm-svc/utils/log"
-	"github.com/wyubin/llm-svc/utils/viperkit"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/wyubin/go-utils/log"
+	"github.com/wyubin/go-utils/viperkit"
 )
 
 const (

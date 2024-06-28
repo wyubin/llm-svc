@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wyubin/llm-svc/cmd/rag/ctl"
-	"github.com/wyubin/llm-svc/utils/customflag"
-	"github.com/wyubin/llm-svc/utils/log"
 	"github.com/spf13/cobra"
+	"github.com/wyubin/go-utils/customflag"
+	"github.com/wyubin/go-utils/log"
+	"github.com/wyubin/llm-svc/cmd/rag/ctl"
 )
 
 var (

@@ -6,8 +6,8 @@ import (
 	"reflect"
 
 	"github.com/google/uuid"
-	"github.com/wyubin/llm-svc/utils/maptool"
-	"github.com/wyubin/llm-svc/utils/repo/vector"
+	"github.com/wyubin/go-utils/maptool"
+	"github.com/wyubin/go-utils/repo/vector"
 
 	pb "github.com/qdrant/go-client/qdrant"
 )

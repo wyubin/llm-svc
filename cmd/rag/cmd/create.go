@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wyubin/llm-svc/cmd/rag/ctl"
-	"github.com/wyubin/llm-svc/utils/log"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/wyubin/go-utils/log"
+	"github.com/wyubin/llm-svc/cmd/rag/ctl"
 )
 
 var (

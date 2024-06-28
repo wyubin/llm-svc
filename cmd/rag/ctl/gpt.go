@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/wyubin/llm-svc/utils/str"
+	"github.com/wyubin/go-utils/str"
 )
 
 const (

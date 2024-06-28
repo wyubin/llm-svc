@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/wyubin/llm-svc/utils/repo/vector"
+	"github.com/wyubin/go-utils/repo/vector"
 )
 
 const (

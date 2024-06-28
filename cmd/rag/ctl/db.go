@@ -3,8 +3,8 @@ package ctl
 import (
 	"fmt"
 
+	interDB "github.com/wyubin/go-utils/repo/vector"
 	repoDB "github.com/wyubin/llm-svc/pkg/repo/vector"
-	interDB "github.com/wyubin/llm-svc/utils/repo/vector"
 )
 
 const (

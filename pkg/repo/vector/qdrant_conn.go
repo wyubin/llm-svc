@@ -7,7 +7,7 @@ import (
 	"google.golang.org/grpc/credentials/insecure"
 
 	pb "github.com/qdrant/go-client/qdrant"
-	"github.com/wyubin/llm-svc/utils/repo/vector"
+	"github.com/wyubin/go-utils/repo/vector"
 )
 
 var (

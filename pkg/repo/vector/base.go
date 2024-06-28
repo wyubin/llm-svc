@@ -3,7 +3,7 @@ package vector
 import (
 	"strings"
 
-	"github.com/wyubin/llm-svc/utils/repo/vector"
+	"github.com/wyubin/go-utils/repo/vector"
 )
 
 func NewConn(uri string) (vector.Conn, error) {
