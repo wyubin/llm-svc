@@ -1,0 +1,6 @@
+OPENAI_URI=yubin-ollama-dev.user-yubin-wang.svc.cluster.local:11434
+QDRANT_URI=yubin-qdrant-dev.user-yubin-wang.svc.cluster.local:6334
+MODEL_EMBEDDING=nomic-embed-text
+MODEL_INFERENCE=gemma:2b
+PATH_DB_INFO=/usr/local/static/rag_db.json
+PATH_TMPL=/usr/local/static/tmpl
