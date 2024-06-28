@@ -7,3 +7,8 @@ implement service for LLM applications
 git submodule update --remote --merge
 ```
 如果在本 repo 直接更新 submodule 的話，則是要進到子資料夾做 git commit
+
+如果直接 git clone 連著子模組clone
+```shell
+git clone --recurse-submodules git@github.com:wyubin/llm-svc.git
+```
